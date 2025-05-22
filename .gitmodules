@@ -1,0 +1,6 @@
+[submodule "time_mk_api"]
+	path = time_mk_api
+	url = git@github.com:samekmd/time_mk_api.git
+[submodule "time_mk_frontend"]
+	path = time_mk_frontend
+	url = git@github.com:samekmd/time_mk_frontend.git
